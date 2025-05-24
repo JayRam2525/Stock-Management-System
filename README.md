@@ -1,1 +1,2 @@
-# Stock-Management-System
+# STOCK_MANAGEMENT_SYSTEM
+ 
